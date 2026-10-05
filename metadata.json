@@ -1,0 +1,6 @@
+{
+  "name": "Zero Kata (Tic Tac Toe)",
+  "description": "An interactive Zero Kata (Tic-Tac-Toe) game featuring Disappearing mode, Speed Blitz, 4x4 grid, vintage and neon themes, custom avatars, and voice commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
